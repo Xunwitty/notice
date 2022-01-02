@@ -24,6 +24,8 @@
 
 比较好用的`Markdown`编辑器有 `Typora`(现已经收费)、` Mark Text`等，通过进行相关配置，可以在本地比较快捷方便的编写`Markdown`文档
 
+- [B站教程（仅供参考）](https://www.bilibili.com/video/BV1KZ4y1j7nT)
+
 
 
 ## git（All）
@@ -54,7 +56,8 @@
 
 - [git学习](https://oschina.gitee.io/learn-git-branching/)
 - [git学习（基地网盘）](http://pan.eetb.space/index.php/s/SLb3LMLb7m7rEcz)
-- [git的b站教程（不局限于这个）](https://www.bilibili.com/video/BV1Mk4y1y7jR?from=search&seid=6932664007678340263)
+- [git的b站教程（不局限于这个）](https://www.bilibili.com/video/BV1Mk4y1y7jR)
+- [B站教程](https://www.bilibili.com/video/BV1MU4y1Y7h5)
 
 
 
@@ -113,7 +116,7 @@
 
 ### 我需要做什么？
 
-通过使用`volo-fast`代码框架，调用外接摄像头模块，实现 `基于机器视觉的手势识别`
+搭建并且初识`Nano`以及相关`Linux`的操作，搭建好`volo-fast`代码框架，并通过该框架来调用外接摄像头模块，从而实现 `基于机器视觉的手势识别`
 
 代码种类不限，可 `C`可 `python`
 
@@ -128,9 +131,24 @@
 - [python数据分析](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)
 - [ 廖雪峰老师的网站](https://www.liaoxuefeng.com/wiki/1016959663602400/1183249464292448)
 - [voloV5的b站学习视频](https://www.bilibili.com/video/BV1YL4y1J7xz?spm_id_from=333.999.0.0)
+- [nano搭建以及配置环境](https://blog.csdn.net/u011119817/article/details/109622480)
+
+
+
+# 其他
+
+## 关于博客以及博文
+
+养成一个编写博客的习惯是非常好的，它可以帮你记录你在学习过程中遇到的点点滴滴，并且当此类问题再次发现的时候，你能够很快的找到相关的解决方法，这会极大的提升你的学习效率，并且博客搭建在现如今也是比较简单以及快捷的，在你学习完`git`以及`markdown`的相关书写后，你可以使用`GitHub`or `Gitee`这两个平台来搭建一个属于自己的博客页面（例如我的[ZHYCarge的博客](zhycarge.github.io)）
+
+
+
+## 提问的艺术
+
+当你在学习的过程中，遇到了些许问题的时候，不要急着去询问学长学姐，请先尝试从必应或者相关博客中去寻找答案，详情请阅读"[提问的艺术](https://github.com/GUET-EETB/How-To-Ask-Questions-The-Smart-Way/blob/main/README.md)",这并不是我们不想帮你及时解答问题，而是我们需要培养你们自身的寻找问题的能力。在以后的学习以及工作中，我们总会遇到种种问题，但是如果你一旦遇到问题就去询问学长or前辈，那么你会渐渐对其形成依赖，从而丧失自身搜寻问题的能力。但以后的路，并不是都会有“领路人”来带着你前行不是吗？因此，学会独立思考以及学会自我搜索答案是个很重要的一次过程。
 
 
 
 # 尾言
 
-​	上学的时光悄然而逝，我们即将离开学校，回到家中，在家中的学习过程中，也会遇到许许多多以及奇奇怪怪的问题，当你遇到问题的时候，想要询问学长与学姐之前，请在阅读完“[提问的艺术](https://github.com/GUET-EETB/How-To-Ask-Questions-The-Smart-Way/blob/main/README.md)“并确保自身已经做到了文中提到的所有步骤，但是并未获得解决方法之后，在向学长or学姐进行提问，我们相信，一次优秀的问答会极大的激发我们直接的沟通与交流，（即使这个方法对你来讲在短时间内会造成很大的时间浪费，但是你怎能确保在人生的旅途中你总能找到一位学长or学姐来一直帮你答疑解惑呢？
+上学的时光悄然而逝，我们即将离开学校，回到家中，相信你会牢牢把握这个假期，通过这个假期好好的丰富自己的知识面，让自己的兴趣得到充分增长~

@@ -55,7 +55,6 @@
 ### 相关资料
 
 - [git学习](https://oschina.gitee.io/learn-git-branching/)
-- [git学习（基地网盘）](http://pan.eetb.space/index.php/s/SLb3LMLb7m7rEcz)
 - [git的b站教程（不局限于这个）](https://www.bilibili.com/video/BV1Mk4y1y7jR)
 - [B站教程](https://www.bilibili.com/video/BV1MU4y1Y7h5)
 
@@ -92,6 +91,7 @@
 ### 相关学习资料
 
 - [51单片机学习视频及板子原理图（基地网盘）](http://pan.eetb.space/index.php/s/pHBiPxadNdRgTDT)
+- [51单片机视频教程（云OSS）](https://dpj-21.oss-cn-beijing.aliyuncs.com/C51%E7%9A%84%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.zip)
 
 
 
@@ -122,7 +122,7 @@
 
 实现内容：通过在 `nano`中 使用 `yolo-fast`建立一个小模型，能够实现对手势的识别以及做出相关反馈
 
-完成任务：搭建模型库，并进行训练，使其能够实现检测手势形状例如”OK“、”张开手掌“。 同时在命令行中输出识别结果与置信度
+完成任务：搭建模型库，并进行训练，使其能够实现检测手势形状例如”OK“、”张开手掌“这两种手势。 同时在命令行中输出识别结果与置信度
 
 
 
